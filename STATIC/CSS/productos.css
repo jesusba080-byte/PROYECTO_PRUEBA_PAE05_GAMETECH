@@ -39,7 +39,7 @@ body{
   transition: all 0.5s ease;
   overflow: hidden;
   text-align: center;
-  background-color: #fff;
+   background-color: #f5f3f3;
 }
 .card:hover{
   transform: translateY(-10px);
@@ -55,11 +55,12 @@ body{
   transform: scale(1.1);
 }
 .card:hover{
-  box-shadow: 0 8px 30px rgb(43, 108, 248);
+  box-shadow: 0 8px 30px rgb(49, 111, 245);
 }
 .card h5 p{
   font-weight: bolder;
 }
 .row{
   margin: 15px;
+
 }
